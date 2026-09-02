@@ -279,7 +279,7 @@ The dashboard is designed to answer questions such as:
 
 ---
 
-# 🗂️ Recommended Repository Structure
+# 🗂️ Repository Structure
 
 ```text
 Students Social Media Addiction-PowerBI/
@@ -292,16 +292,13 @@ Students Social Media Addiction-PowerBI/
 ├── Dataset/
 │   └── dataset.csv
 │
-├── Screenshots/
-│   ├── executive-overview.png
-│   ├── mental-health-lifestyle.png
-│   ├── academic-impact.png
-│   ├── relationships-conflicts.png
-│   ├── interactive-story.png
-│   └── drill-through.png
-│
-└── Documentation/
-    └── project-notes.md
+└── Screenshots/
+    ├── executive-overview.png
+    ├── mental-health-lifestyle.png
+    ├── academic-impact.png
+    ├── relationships-conflicts.png
+    ├── interactive-story.png
+    └── drill-through.png
 ```
 
 ---
